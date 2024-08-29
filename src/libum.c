@@ -32,6 +32,8 @@
 #include <errno.h>
 #include <ctype.h>
 #include <time.h>
+#include <arpa/inet.h>
+#include <sys/socket.h>
 
 #include "libum.h"
 #include "smcp1.h"
